@@ -1,0 +1,83 @@
+html, body
+{
+    height: 100%;
+}
+
+body
+{
+    margin: 0px;
+    padding: 0px;
+    background: #F8F8FF url(images/bg01.jpg) repeat;
+    font-family: 'Archivo Narrow', sans-serif;
+    font-size: 11pt;
+    color: #727272;
+}
+
+
+.menu {
+    width: 800px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+    text-align: center;
+}
+ 
+.main {
+    border: 1px solid black;
+    width: 800px;
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+}
+.main2 {
+    border: 1px solid black;
+    width: 800px;
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+}
+.main3 {
+    border: 1px solid black;
+    width: 800px;
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+}
+.main4 {
+    border: 1px solid black;
+    width: 800px;
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+}
+ 
+.display {
+    border: 2px double red;
+    width: 800px;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+    text-decoration:underline;
+    text-align: center;
+}
+ 
+.bottom {
+        border: 2px dashed gray;
+    width: 800px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+}
+
+input {
+    margin: 2px;
+}
